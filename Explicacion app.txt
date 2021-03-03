@@ -1,0 +1,1 @@
+La app loguea al usuario siendo cliente o administrador y genera un arbol en firebase, luego el usuario puede incrementar su saldo llendo a la pestaña de cuenta y pulsando sobre recarga y podemos ver el saldo actual, el correo y el alias de la persona, muestra tambien un boton en la esquina superior derecha para hacer sign out.
